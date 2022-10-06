@@ -1,4 +1,4 @@
-# 💫 About Me:
+https://images.app.goo.gl/u82wqfwkrakbRrxU9
 🔭 I’m currently student<br>👯 I’m looking to collaborate on anything<br>🌱 I’m currently learning python<br>
 
 
