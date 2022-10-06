@@ -1,5 +1,6 @@
 About
-🔭 I’m currently student<br>👯 I’m looking to collaborate on anything<br>🌱 I’m currently learning python<br>
+
+<br>🔭 I’m currently student<br>👯 I’m looking to collaborate on anything<br>🌱 I’m currently learning python<br>
 
 
 ## 🌐 Socials:
