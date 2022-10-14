@@ -1,6 +1,6 @@
-About
+<h2>Vishnu V</h2>
 
-<br>🔭 I’m currently student<br>👯 I’m looking to collaborate on anything<br>🌱 I’m currently learning python<br>
+  Hi , I am Vishnu V ,doing my BTech Computer Science at Adi Shankara Institute of Engineering and Technology
 
 
 ## 🌐 Socials:
