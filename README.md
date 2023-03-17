@@ -14,7 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu02v&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vishnu02v&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=vishnu02v)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vishnu02v&icon=1&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=vishnu02v)](https://visitcount.itsvg.in)
