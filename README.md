@@ -17,4 +17,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=vishnu02v&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vishnu02v&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=vishnu02v&icon=1&color=1)](https://visitcount.itsvg.in)
