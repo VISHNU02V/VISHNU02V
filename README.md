@@ -1,4 +1,3 @@
-![](https://live.staticflickr.com/65535/52755463578_02e89a0e86_b.jpg)
 <h2>Vishnu V</h2>
 
   Hi , I am Vishnu V ,doing my BTech Computer Science at Adi Shankara Institute of Engineering and Technology
