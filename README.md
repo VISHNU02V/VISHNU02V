@@ -2,7 +2,7 @@
 <hr>
 <h2 align='center'>Vishnu V</h2>
 <hr>
-<h3> Hi <br> I am Vishnu V <br> Doing my BTech Computer Science at Adi Shankara Institute of Engineering and Technology</h3>
+<h4> Hi <br> I am Vishnu V <br> Doing my BTech Computer Science at Adi Shankara Institute of Engineering and Technology</h4>
 <hr>
 
 ## 🌐 Socials:
