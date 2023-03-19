@@ -24,5 +24,5 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=vishnu02v)](https://visitcount.itsvg.in)
-![Profile views](https://komarev.com/ghpvc/?username=vishnu02v&color=blue&style=plastic)
+
 <hr>
