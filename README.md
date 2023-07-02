@@ -1,4 +1,3 @@
-![](https://live.staticflickr.com/65535/52755463578_02e89a0e86_b.jpg)
 <hr>
 <h2 align='center'> <b> Vishnu V <b> <br>  </h2>
 <h4 align='center'>Click here for profiles: <a href="https://vishnu02v.github.io/profile/"><button type="submit">profile</button></a></h4>
