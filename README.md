@@ -1,7 +1,7 @@
 <hr>
 <h2 align='center'> <b> Vishnu V <b> <br>  </h2>
 <hr>
-<h4> I am a B.Tech Computer Science student at Adi Shankara Institute of Engineering & Technology.<br><h4 align='center'>Click here : <a href="https://vishnu02v.github.io/profile/"><button type="submit">profile</button></a></h4>
+<h4 align='center'> I am a B.Tech Computer Science student at Adi Shankara Institute of Engineering & Technology.<br><h4 align='center'>Click here : <a href="https://vishnu02v.github.io/profile/"><button type="submit">profile</button></a></h4>
 </h4>
 <hr>
 
