@@ -1,7 +1,7 @@
 <hr>
 <h2 align='center'> <b> Vishnu V <b> <br>  </h2>
 <hr>
-<h4>Click here for profiles: <a href="https://vishnu02v.github.io/profile/"><button type="submit">profile</button></a></h4>
+<h4 align='center'>Click here for profiles: <a href="https://vishnu02v.github.io/profile/"><button type="submit">profile</button></a></h4>
 <hr>
 
 ## 🌐 Socials:
