@@ -18,10 +18,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu02v&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <hr>
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vishnu02v)
----
-
 [![](https://visitcount.itsvg.in/api?id=vishnu02v)](https://visitcount.itsvg.in)
 
 <hr>
